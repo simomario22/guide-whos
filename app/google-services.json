@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "409468520841",
+    "firebase_url": "https://guide-whos.firebaseio.com",
+    "project_id": "guide-whos",
+    "storage_bucket": "guide-whos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409468520841:android:6ae23bb0d7566818",
+        "android_client_info": {
+          "package_name": "com.example.simo.guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409468520841-m2bvv0t79ugeff6ii74nhof646fufkp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simo.guide",
+            "certificate_hash": "9269f4cd10d689faa50829933245d390c88bbff9"
+          }
+        },
+        {
+          "client_id": "409468520841-outm3ig865p2vha7s29f4l04n1d87703.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUXg9ftZtuhrVLbqcxoeakcQcxVfYUkRo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409468520841-outm3ig865p2vha7s29f4l04n1d87703.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

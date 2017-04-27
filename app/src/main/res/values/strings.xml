@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guide</string>
+    <string name="text1">0</string>
+    <string name="text2">1 </string>
+    <string name="text3">2</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <string name="button">Button</string>
+</resources>
